@@ -11,6 +11,10 @@
     "esModuleInterop": true,
     "allowSyntheticDefaultImports": true,
     "strict": true,
+    "rootDirs": [
+      "src",
+      "stories"
+    ],
     "forceConsistentCasingInFileNames": true,
     "module": "esnext",
     "moduleResolution": "node",
