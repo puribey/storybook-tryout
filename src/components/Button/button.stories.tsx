@@ -7,5 +7,5 @@ storiesOf('Button', module)
     <Button label="hello"/>
   ))
   .add('bye', () => (
-    <Button label="bye" />
+    <Button label="bye"/>
   ))

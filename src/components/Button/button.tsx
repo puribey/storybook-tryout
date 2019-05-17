@@ -1,15 +1,12 @@
-import * as React from 'react';
+import * as React from "react";
+import { GenericButton } from "../styles/styles";
 
 export interface Props {
-    label: string;
+  label: string;
 }
 
 function Button({ label }: Props) {
-return (
-    <button style={{background: "red"}}>
-            {label}
-    </button>
-    );
+  return <GenericButton>{label}</GenericButton>;
 }
 
 export default Button;
