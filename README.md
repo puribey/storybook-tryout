@@ -1,6 +1,7 @@
 # Storybook Tryout
 
 ## Technologies involved
+- React
 - Typescript
 - Emotion
 - Storybook
