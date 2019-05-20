@@ -1,5 +1,11 @@
 # Storybook Tryout
 
+## Usage
+
+1. Clone this repo
+2. Run `npm install` or `npm i`
+3. Run `npm run storybook`
+
 ## Technologies involved
 - React
 - Typescript
